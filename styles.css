@@ -1,0 +1,28 @@
+/* add your CSS here */
+.tiger{
+	width: 300px;
+	padding-bottom: 1em;
+}
+.fact{
+	font-style: italic;
+}
+.label{
+	font-weight: bold;
+}
+.list{
+	list-style-type: none;
+}
+div{
+	border-style: groove;
+	
+}
+.bordershadow{
+	box-shadow: 10px 10px 5px #888888;
+	padding: 1em;
+	width: 300px;
+}
+.size{
+	width: 300px;
+	
+	
+}
